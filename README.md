@@ -20,9 +20,12 @@ mkdir
 ``
 
 * pour créer un fichier
+``
 touch nomDuFchier.extension
+``
 
 * pour déplacer
 ``
-move   
+move
+`` 
 ~ = /c/Users/nomUser dans windows                                                                                                                                                                                                                       
