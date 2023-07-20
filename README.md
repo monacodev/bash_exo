@@ -1,4 +1,4 @@
-#commandes bash de bases 
+# commandes bash de bases 
 
 * changer de directory dans le terminal
 ``
