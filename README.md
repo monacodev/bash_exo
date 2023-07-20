@@ -3,7 +3,6 @@
 * changer de directory dans le terminal
 ``
 cd 
-
 ``
 * pour savoir le chemin du dossier où on est
 ``
